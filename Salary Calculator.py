@@ -1,3 +1,12 @@
+def calculate_total():
+    total = basic_salary + allowance + bonus
+    return total
+
+
+def display():
+    print("")
+
+
 print("--Welcome To Employee Salary Calculator--")
 print("-----------------------------------------")
 
